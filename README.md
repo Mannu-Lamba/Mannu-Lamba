@@ -10,7 +10,7 @@
 
 ## 👤 About Me
 
-I'm a developer passionate about building real-world projects using Python, C++, and MySQL. I enjoy problem-solving, backend development, and exploring AI-based automation.
+I'm a Developer passionate about building real-world projects using Python, C++, and MySQL. I enjoy problem-solving, backend development, and exploring AI-based automation. My keen intrests lie in A.I. and how it works.
 
 ---
 
