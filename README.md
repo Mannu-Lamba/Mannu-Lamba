@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mankirat (Mannu-Lamba)
+# 👋 Hi, I'm Mankirat
 
 <div align="center">
 
